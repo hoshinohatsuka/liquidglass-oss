@@ -1,6 +1,10 @@
-MIT License
+# Third-Party Notices
 
-Copyright (c) 2026 Liquid Glass OSS contributors
+The liquid-glass WebGL physics and lighting model includes adaptations from
+[`ybouane/liquidglass`](https://github.com/ybouane/liquidglass), commit
+`5ebda520bebdef7786566bc8cb151cac0e593314`, licensed under the MIT License.
+
+Copyright (c) the ybouane/liquidglass contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,4 +23,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
