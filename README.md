@@ -83,3 +83,7 @@ npm run build
 
 MIT
 
+## original author
+
+From [gitlab-liquidglass-oss](https://gitlab.com/ogtirth/liquidglass-oss)
+
